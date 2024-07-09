@@ -1,0 +1,10 @@
+https://rubyroidlabs.com/blog/2023/11/how-to-use-ruby-on-rails-with-react-in-2024/
+
+https://reinteractive.com/articles/running-react-with-rails-7
+
+https://ryanbigg.com/2023/06/rails-7-react-typescript-setup
+
+https://www.typescriptbites.io/articles/setting-up-rails-7-for-typescript-and-react
+
+https://www.mocra.com/getting-started-with-react-on-rails-and-esbuild/
+
